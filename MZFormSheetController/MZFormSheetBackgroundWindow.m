@@ -34,7 +34,7 @@ CGFloat const MZFormSheetControllerDefaultBackgroundBlurSaturation = 1.0;
 UIWindowLevel const MZFormSheetBackgroundWindowLevelAboveStatusBar = 1002;
 UIWindowLevel const MZFormSheetBackgroundWindowLevelBelowStatusBar = 2;
 
-extern CGFloat MZFormSheetControllerWindowTag;
+//extern CGFloat MZFormSheetControllerWindowTag;
 
 static CGFloat const UIInterfaceOrientationAngleOfOrientation(UIInterfaceOrientation orientation) {
     switch (orientation)
